@@ -14,13 +14,13 @@ The Laravel OUI Lookup API is a RESTful JSON API that allows you to look up the 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ryant22/glide-test.git
+git clone https://github.com/Ryant22/OUI-lookup.git
 ```
 
 2. Install dependencies:
 
 ```bash
-cd glide-test
+cd OUI-lookup
 composer install
 ```
 
